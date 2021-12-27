@@ -1,0 +1,36 @@
+[
+  {
+    "path": "posts/2021-12-27-hello-world/",
+    "title": "Hello World",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Dr. Essia Hamouda",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2021-12-27",
+    "categories": [],
+    "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill at https://rstudio.github.io/distill.\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-12-27T15:29:18-08:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to My Blog",
+    "description": "Welcome to our new blog, My Blog. We hope you enjoy \nreading what we have to say!",
+    "author": [
+      {
+        "name": "Dr. Essia Hamouda",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2021-12-27",
+    "categories": [],
+    "contents": "\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-12-27T15:23:14-08:00",
+    "input_file": {}
+  }
+]
